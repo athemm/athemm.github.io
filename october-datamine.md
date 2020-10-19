@@ -1,9 +1,9 @@
-# October 2020 Datamine Markdown Sheet
+
 # <https://discord.gg/sakEBUF>
-<br></br>
+<br>
 ![](https://cdn.discordapp.com/attachments/604407820145786889/767812558643134554/datamine_header.png)
 
-<br></br>
+<br>
 
 ## Includes:
 [\\]: <> (#### New secret mechanic)
@@ -14,7 +14,7 @@
 #### New battle music
 #### Misc
 
-<br></br>
+<br>
 
 ## Shop Offers
 ![]()
@@ -26,11 +26,11 @@
 ## Misc.
 
 
-<br></br>
+<br>
 ## New Icons
 ![]()
 ![]()
 
-<br></br>
+<br>
 ## New Music
 <>
