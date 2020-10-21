@@ -1,4 +1,14 @@
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180918594-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180918594-1');
+</script>
+
 # <https://discord.gg/sakEBUF>
 <br>
 ![](https://cdn.discordapp.com/attachments/604407820145786889/767812558643134554/datamine_header.png)
