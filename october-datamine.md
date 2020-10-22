@@ -8,7 +8,7 @@
 
   gtag('config', 'UA-180918594-1');
 </script>
-
+<script data-ad-client="ca-pub-3079217046374449" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 # October 2020 Datamine Markdown Sheet
 # <https://discord.gg/sakEBUF>
 
