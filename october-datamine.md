@@ -11,10 +11,12 @@
 
 # October 2020 Datamine Markdown Sheet
 # <https://discord.gg/sakEBUF>
-<br></br>
+
+<br>
+
 ![](https://cdn.discordapp.com/attachments/604407820145786889/767812558643134554/datamine_header.png)
 
-<br></br>
+<br>
 
 ## Includes:
 #### Amber info
@@ -26,11 +28,10 @@
 #### New Background
 #### Misc
 
-<br></br>
+<br>
 
 ## New 10 gadgets
 
-</div>
   <div class="text-module">
 
   <ul><li>
@@ -49,53 +50,100 @@
 
 
 ## Amber info
+
+<br>
+
 AMBER: FIREBREATHER
 
+<br>
+
 Amber has always been a firebug. She loves to light up the world and any opponents that come at her!
+<br>
 
 Currently unreleased starpower: SCORCHIN' SIPHON - While being near a puddle of fire fluid, Amber uses it to reload her firebreathing twice as fast.
 
 
-<br></br>
+<br>
+
 ## Shop Offers
+<br>
+
 #### No shop offers found in this update
+
+<br>
+
 ## Misc.
 
 ### Map Making Contests
+
 According to the files, there will be Map Contests in-game in which you can submit your map and if it wins, it will be added in-game
+
 #### How it works:
+
 1 - You can submit a map / maps (I don't know if you can only submit one or not) you made if there's a map contest going on.
-
-2 - After you submit your map, it will be reviewed and approved for publication (this is probably so nonsense maps would not make it into voting). <br></br>THIS IS ALSO CALLED "greenlighting"
-
+<br>
+2 - After you submit your map, it will be reviewed and approved for publication (this is probably so nonsense maps would not make it into voting). <br>THIS IS ALSO CALLED "greenlighting"
+<br>
 3 - Once your map is approved, you will be able to publish your map.
-
+<br>
 4 - After your map is published players will be able to vote it.
-
+<br>
 5 - Winners get announced
-
+<br>
 You can also report maps for inappropriate content. These maps can get banned from the contest
+<br>
 
+<br>
 
-<br></br>
 ## New Icons
+
+<br>
+
 #### New max icon
 ![](https://cdn.discordapp.com/attachments/604407820145786889/768897461493825546/unknown.png)
+
+<br>
+
 #### Amber icon
 ![](https://cdn.discordapp.com/attachments/604407820145786889/768896506651738162/unknown.png)
 
+
+
 ## New Background
+
+
 
 ### World championship background
 ![](https://cdn.discordapp.com/attachments/759082595223994408/768900045260718090/watermarked.png)
+
+<br>
+
 ![](https://cdn.discordapp.com/attachments/759082595223994408/768900181143060500/watermarked.png)
+
+
 
 ## New Music
 
-#### Poco's bandstand Battle Music 1
-<https://cdn.discordapp.com/attachments/759082595223994408/768901834080518184/ingame_poco_track_01.ogg>
-#### Poco's bandstand Battle Music 2
-<https://cdn.discordapp.com/attachments/759082595223994408/768901834080518184/ingame_poco_track_01.ogg)>
-#### "Primo fire" (Menu music)
-<https://cdn.discordapp.com/attachments/759082595223994408/768901832059387934/primo_fire_menu_01.ogg>
+<br>
 
+#### Poco's bandstand Battle Music 1
+
+
+<https://cdn.discordapp.com/attachments/759082595223994408/768901834080518184/ingame_poco_track_01.ogg>
+
+<br>
+
+
+#### Poco's bandstand Battle Music 2
+
+<br>
+
+
+<https://cdn.discordapp.com/attachments/759082595223994408/768901834080518184/ingame_poco_track_01.ogg>
+
+<br>
+
+
+#### "Primo fire" (Menu music)
+
+<https://cdn.discordapp.com/attachments/759082595223994408/768901832059387934/primo_fire_menu_01.ogg>
