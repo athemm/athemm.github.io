@@ -19,6 +19,7 @@
 <br>
 
 ## Includes:
+
 #### Amber info
 #### All new gadgets
 [\\]: <> (#### New secret mechanic)
@@ -47,7 +48,7 @@
   <li><strong>8-bit:</strong> Next basic attack shoots more bullets - November 20</li>
   <li><strong>Colt:</strong> Next basic attack is a big bullet which penetrates and destroys walls - November 20</li>
   </ul>
-
+</div>
 
 ## Amber info
 
