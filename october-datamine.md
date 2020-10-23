@@ -8,7 +8,7 @@
 
   gtag('config', 'UA-180918594-1');
 </script>
-<script data-ad-client="ca-pub-3079217046374449" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 # October 2020 Datamine Markdown Sheet
 # <https://discord.gg/sakEBUF>
 
@@ -129,8 +129,11 @@ You can also report maps for inappropriate content. These maps can get banned fr
 
 #### Poco's bandstand Battle Music 1
 
+<audio controls>
+  <source src="https://cdn.discordapp.com/attachments/759082595223994408/768901834080518184/ingame_poco_track_01.ogg" type="audio/ogg">
+Your browser does not support the audio player.
+</audio>
 
-<https://cdn.discordapp.com/attachments/759082595223994408/768901834080518184/ingame_poco_track_01.ogg>
 
 <br>
 
@@ -140,11 +143,18 @@ You can also report maps for inappropriate content. These maps can get banned fr
 <br>
 
 
-<https://cdn.discordapp.com/attachments/759082595223994408/768901824337412126/ingame_poco_track_02.ogg>
+<audio controls>
+  <source src="https://cdn.discordapp.com/attachments/759082595223994408/768901834080518184/ingame_poco_track_02.ogg" type="audio/ogg">
+Your browser does not support the audio player.
+</audio>
+
 
 <br>
 
 
 #### "Primo fire" (Menu music)
+<audio controls>
+  <source src="<https://cdn.discordapp.com/attachments/759082595223994408/768901832059387934/primo_fire_menu_01.ogg>" type="audio/ogg">
+Your browser does not support the audio player.
+</audio>
 
-<https://cdn.discordapp.com/attachments/759082595223994408/768901832059387934/primo_fire_menu_01.ogg>
