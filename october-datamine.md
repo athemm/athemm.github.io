@@ -144,7 +144,7 @@ Your browser does not support the audio player.
 
 
 <audio controls>
-  <source src="https://cdn.discordapp.com/attachments/759082595223994408/768901834080518184/ingame_poco_track_02.ogg" type="audio/ogg">
+  <source src="https://cdn.discordapp.com/attachments/759082595223994408/768901824337412126/ingame_poco_track_02.ogg" type="audio/ogg">
 Your browser does not support the audio player.
 </audio>
 
@@ -154,7 +154,7 @@ Your browser does not support the audio player.
 
 #### "Primo fire" (Menu music)
 <audio controls>
-  <source src="<https://cdn.discordapp.com/attachments/759082595223994408/768901832059387934/primo_fire_menu_01.ogg>" type="audio/ogg">
+  <source src="https://cdn.discordapp.com/attachments/759082595223994408/768901832059387934/primo_fire_menu_01.ogg" type="audio/ogg">
 Your browser does not support the audio player.
 </audio>
 
