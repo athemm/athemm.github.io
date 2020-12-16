@@ -96,10 +96,12 @@ Byron's Super will also cause opponents to receive x less healing from any sourc
 
 Star Power 2: INJECTION
 Every <c00cc00><VALUE1></c> seconds the next basic attack will pierce through targets.
+  
 ![](https://cdn.discordapp.com/attachments/759082595223994408/788314492151922698/940_0.png)
 
 Gadget: SHOT IN THE ARM
 Byron uses one of his shots to heal himself <c00cc00><VALUE1></c> per second for <c00cc00><VALUE2></c> seconds.
+  
 ![](https://cdn.discordapp.com/attachments/759082595223994408/788323369502244885/888_0.png)
 
 <video controls>
@@ -135,7 +137,7 @@ Byron uses one of his shots to heal himself <c00cc00><VALUE1></c> per second for
 
 ## Old School Brock / Retro Brock
 <video controls>
-  <source src="https://cdn.discordapp.com/attachments/759082595223994408/788427763849494558/Brawl_Stars_2020-12-15-18-28-09.mp4" type="video/mp4">
+  <source src="https://cdn.discordapp.com/attachments/759082595223994408/788428243812220959/Brawl_Stars_2020-12-15-18-23-52.mp4" type="video/mp4">
 </video>
 
 <br>
