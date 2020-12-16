@@ -91,16 +91,16 @@ Super: FULL TREATMENT<br>
 Throws a vial that heals friendlies and damages opponents.
 
 Star Power 1: MALAISE<br>
-Byron's Super will also cause opponents to receive x less healing from any source for x seconds.
+Byron's Super will also cause opponents to receive 50% less healing from any source for 9 seconds.
 ![](https://cdn.discordapp.com/attachments/759082595223994408/788314489074352138/941_0.png)
 
 Star Power 2: INJECTION
-Every <c00cc00><VALUE1></c> seconds the next basic attack will pierce through targets.
+Every x seconds the next basic attack will pierce through targets.
   
 ![](https://cdn.discordapp.com/attachments/759082595223994408/788314492151922698/940_0.png)
 
 Gadget: SHOT IN THE ARM
-Byron uses one of his shots to heal himself <c00cc00><VALUE1></c> per second for <c00cc00><VALUE2></c> seconds.
+Byron uses one of his shots to heal himself 800 per second for 5 seconds.
   
 ![](https://cdn.discordapp.com/attachments/759082595223994408/788323369502244885/888_0.png)
 
