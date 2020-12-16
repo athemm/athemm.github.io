@@ -38,7 +38,6 @@
 <br>
 
 Let's face it, this is an angry kid. He also loves parkour.
-ds.
 
 
 <br>
