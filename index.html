@@ -1,19 +1,53 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
-<title>athemm's website</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
-
-
 <body>
-<a class="link" href="/api.html">Supercell APIs</a>
-<br>
-<a class="link" href="/sc_codenames.html">Supercell Games</a>
-<br>
-<a class="link" href="/sc_services.html">Services Supercell Uses</a>
-<br>
-<a class="link" href="/servers.html">BS Servers</a>
-<br>
-<a class="link" href="/chronos.html">?</a>
+
+<script>
+function doWebView()
+{
+  var title = prompt("Webview title", "Web view");
+  var website = prompt("Website URL", "https://example.com");
+  location.href = 'brawlstars://webview?page='+website+'&popup_title=' + title 
+}
+
+</script>
+<script>
+function joinRoom() {
+  var website = prompt("Game Room Tag", "");
+  location.href='brawlstars://joinRoom?tag="' + 'website"'
+}
+</script>
+<div class="jumbotron text-center">
+  <h2>brawl star mod menu</h2>
+</div>
+ 
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal", onclick="location.href='brawlstars-inbox://shop'">open shop</button>
+
+
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal", onclick="location.href='brawlstars-inbox://stopMusic'">Stop music</button>
+
+
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal", onclick="location.href='brawlstars-inbox://share?title=' + ''poopedandshided''">Share</button>
+
+
+<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal", onclick="location.href='brawlstars-inbox://resumeMusic'">Resume music</button>
+
+
+<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal", onclick="doWebView()">Webview</button>
+
+<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal", onclick="location.href='brawlstars-inbox://tokenExpired">Token expired</button>
+
+<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal", onclick="location.href='brawlstars://supercell_id'">SCID</button>
+
+<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal", onclick="joinRoom()">Join game room</button>
+
+</body>
+</html>
