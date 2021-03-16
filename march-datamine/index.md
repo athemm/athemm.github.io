@@ -38,12 +38,33 @@
 <h3>Stats (level 1)</h3>
 
 <strong>HP:</strong> 3200
+
+<br>
+
 <strong>Speed:</strong> Normal
+
+<br>
+
 <strong>Ulti charge from attacks:</strong> Fast af, about 10 times more than other brawlers
+
+<br>
+
 <strong>Ulti charge from ulti:</strong> Average
+
+<br>
+
 <strong>Attack range</strong> Average, as much as lou or shelly
+
+<br>
+
 <strong>Ulti range</strong> Short, slightly less than mortis' attack
+
+<br>
+
 <strong>Ulti movement speed</strong> Medium, as fast as crow
+
+<br>
+
 
 See pins [here](https://athemm.mystorage.workers.dev/0:/Stu%20Assets/)[.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
